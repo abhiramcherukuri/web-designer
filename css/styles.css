@@ -141,3 +141,14 @@ hr{
 .contact-me {
   margin: 80px auto 100px auto;
 }
+
+.attribution {
+  font-size: 10px;
+  line-height: 2;
+  color: #EAF6F6;
+  text-decoration: none;
+}
+
+.attribute {
+  padding-top: 10px;
+}
